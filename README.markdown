@@ -1,3 +1,7 @@
+# IMPORTANT
+
+This repository has been migrated to https://codeberg.org/puppe/secrets.
+
 # Secrets
 
 Secrets is a simple, little program that copies files which contain
